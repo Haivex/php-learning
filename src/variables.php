@@ -28,3 +28,5 @@ echo "\n";
 die();
 
 echo 'This cannot be executed';
+
+//Semicolons are important!
