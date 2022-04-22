@@ -92,3 +92,5 @@ is_null($email); //true
 is_null('asdsa'); //false
 
 $isTextNull = 'Example' === null;
+
+//xor operator if one(not both) is true return true else return false;
